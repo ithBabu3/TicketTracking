@@ -1,0 +1,5 @@
+VBGROUP 5.0
+Project=config\Configuration.vbp
+StartupProject=TicketTrackingFrontEnd.vbp
+Project=TicketTrackingSystem\DBShopOn.vbp
+Project=..\..\Validatio\Validated.vbp

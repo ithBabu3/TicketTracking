@@ -1,0 +1,45 @@
+[History]
+1=#P0#=mb	#P1#=closeTickets	#P2#=DBTicketTracking/LogTicket/closeTickets	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220224131155	#P7#=0	#P8#=25	.
+2=#P0#=mb	#P1#=getSearchTicketCollection	#P2#=DBTicketTracking/General/getSearchTicketCollection	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220224093600	#P7#=0	#P8#=2	.
+3=#P0#=mb	#P1#=getSearchCollection	#P2#=DBTicketTracking/LogTicket/getSearchCollection	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220224094025	#P7#=0	#P8#=7	.
+4=#P0#=mb	#P1#=getSearchTicket	#P2#=DBTicketTracking/LogTicket/getSearchTicket	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220224091922	#P7#=0	#P8#=0	.
+5=#P0#=mb	#P1#=getSearchTicketCollection	#P2#=DBTicketTracking/LogTicket/getSearchTicketCollection	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220224091915	#P7#=0	#P8#=0	.
+6=#P0#=mb	#P1#=getSearchTickets	#P2#=DBTicketTracking/General/getSearchTickets	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220224152717	#P7#=0	#P8#=13	.
+7=#P0#=mb	#P1#=getTicketCollection	#P2#=DBTicketTracking/LogTicket/getTicketCollection	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220224110911	#P7#=0	#P8#=-1	.
+8=#P0#=mb	#P1#=dept	#P2#=DBTicketTracking/EmployeeAuthentication/dept	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220223223901	#P7#=0	#P8#=-1	.
+9=#P0#=mb	#P1#=loadEmployeeAuth	#P2#=DBTicketTracking/EmployeeAuthentication/loadEmployeeAuth	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220224091544	#P7#=0	#P8#=10	.
+10=#P0#=mb	#P1#=getTickets	#P2#=DBTicketTracking/General/getTickets	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220224091340	#P7#=0	#P8#=28	.
+11=#P0#=mb	#P1#=getTickets	#P2#=DBTicketTracking/LogTicket/getTickets	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220224110908	#P7#=0	#P8#=0	.
+12=#P0#=mb	#P1#=getAllUsers	#P2#=DBTicketTracking/EmployeeAuthentication/getAllUsers	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220223222356	#P7#=0	#P8#=0	.
+13=#P0#=mb	#P1#=getGenTicketCollection	#P2#=DBTicketTracking/General/getGenTicketCollection	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220224091831	#P7#=0	#P8#=6	.
+14=#P0#=mb	#P1#=getDep	#P2#=DBTicketTracking/General/getDep	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220224174842	#P7#=0	#P8#=2	.
+15=#P0#=mb	#P1#=getAllUsersName	#P2#=DBTicketTracking/General/getAllUsersName	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220223192253	#P7#=0	#P8#=9	.
+16=#P0#=mb	#P1#=viewTickets	#P2#=DBTicketTracking/LogTicket/viewTickets	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220224113010	#P7#=0	#P8#=5	.
+17=#P0#=mb	#P1#=save	#P2#=DBTicketTracking/LogTicket/save	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220224112958	#P7#=0	#P8#=16	.
+18=#P0#=mb	#P1#=setEmployeeId	#P2#=DBTicketTracking/EmployeeAuthentication/setEmployeeId [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220223183625	#P7#=0	#P8#=-2	.
+19=#P0#=mb	#P1#=getAllDep	#P2#=DBTicketTracking/EmployeeAuthentication/getAllDep	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220223181912	#P7#=0	#P8#=0	.
+20=#P0#=mb	#P1#=getEmployeeObj	#P2#=DBTicketTracking/EmployeeAuthentication/getEmployeeObj	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220223181911	#P7#=0	#P8#=2	.
+21=#P0#=mb	#P1#=setuserId	#P2#=DBTicketTracking/EmployeeAuthentication/setuserId [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220223181118	#P7#=0	#P8#=-1	.
+22=#P0#=mb	#P1#=SetUpConnection	#P2#=DBTicketTracking/DBConnection/SetUpConnection	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220223132719	#P7#=-2147483640	#P8#=0	.
+23=#P0#=mb	#P1#=getpassword	#P2#=DBTicketTracking/EmployeeAuthentication/getpassword [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220222214732	#P7#=0	#P8#=1	.
+24=#P0#=mb	#P1#=getEmployeeId	#P2#=DBTicketTracking/EmployeeAuthentication/getEmployeeId [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220222213622	#P7#=0	#P8#=0	.
+25=#P0#=mb	#P1#=setraisedBy	#P2#=DBTicketTracking/LogTicket/setraisedBy [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220222212647	#P7#=0	#P8#=0	.
+26=#P0#=mb	#P1#=setticketDesc	#P2#=DBTicketTracking/LogTicket/setticketDesc [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220222190357	#P7#=0	#P8#=-2	.
+27=#P0#=mb	#P1#=setresolvedBy	#P2#=DBTicketTracking/LogTicket/setresolvedBy [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220222190352	#P7#=0	#P8#=-2	.
+28=#P0#=mb	#P1#=setresolution	#P2#=DBTicketTracking/LogTicket/setresolution [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220222190349	#P7#=0	#P8#=2	.
+29=#P0#=mb	#P1#=setresolvedDate	#P2#=DBTicketTracking/LogTicket/setresolvedDate [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220222190347	#P7#=0	#P8#=0	.
+30=#P0#=mb	#P1#=getticketDesc	#P2#=DBTicketTracking/LogTicket/getticketDesc [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220222190256	#P7#=0	#P8#=0	.
+31=#P0#=mb	#P1#=getseverity	#P2#=DBTicketTracking/LogTicket/getseverity [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220222185941	#P7#=0	#P8#=0	.
+32=#P0#=mb	#P1#=setseverity	#P2#=DBTicketTracking/LogTicket/setseverity [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220222185940	#P7#=0	#P8#=-1	.
+33=#P0#=mb	#P1#=getresolution	#P2#=DBTicketTracking/LogTicket/getresolution [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220222185745	#P7#=0	#P8#=0	.
+34=#P0#=mb	#P1#=getresolvedDate	#P2#=DBTicketTracking/LogTicket/getresolvedDate [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220222185727	#P7#=0	#P8#=2	.
+35=#P0#=mb	#P1#=getraisedBy	#P2#=DBTicketTracking/LogTicket/getraisedBy [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220222185450	#P7#=0	#P8#=1	.
+36=#P0#=mb	#P1#=setTicketId	#P2#=DBTicketTracking/LogTicket/setTicketId [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220222170612	#P7#=0	#P8#=-1	.
+37=#P0#=mb	#P1#=loadEmployee	#P2#=DBTicketTracking/Employee/loadEmployee	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220222165713	#P7#=0	#P8#=7	.
+38=#P0#=mb	#P1#=setemployeeName	#P2#=DBTicketTracking/Employee/setemployeeName [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220222155559	#P7#=0	#P8#=-1	.
+39=#P0#=mb	#P1#=getdept	#P2#=DBTicketTracking/Employee/getdept [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220222114537	#P7#=0	#P8#=1	.
+40=#P0#=mb	#P1#=gethireDate	#P2#=DBTicketTracking/Employee/gethireDate [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220222113257	#P7#=0	#P8#=1	.
+41=#P0#=mb	#P1#=getemployeeName	#P2#=DBTicketTracking/Employee/getemployeeName [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220222113205	#P7#=0	#P8#=1	.
+42=#P0#=mb	#P1#=sethireDate	#P2#=DBTicketTracking/Employee/sethireDate [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220222113107	#P7#=0	#P8#=0	.
+43=#P0#=mb	#P1#=getEmployeeId	#P2#=DBTicketTracking/Employee/getEmployeeId [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220222112958	#P7#=0	#P8#=1	.
+44=#P0#=mb	#P1#=readConfig	#P2#=DBTicketTracking/DBConnection/readConfig	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220218112731	#P7#=0	#P8#=0	.
